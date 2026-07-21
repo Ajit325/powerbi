@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a portfolio and learning project built with Microsoft Power BI using the Microsoft AdventureWorks sample dataset. The dashboard was created while as demo and was extended as a hands-on exercise in data modeling, DAX, and business reporting.
+This is a portfolio and learning project built with Microsoft Power BI using the Microsoft AdventureWorks sample dataset. The dashboard was created as demo and was extended as a hands-on exercise in data modeling, DAX, and business reporting.
 
 The goal is to convert raw sales, product, customer, and geography data into clear, interactive insights for business users.
 
